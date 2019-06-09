@@ -15,8 +15,3 @@ Project Dependencies
 - Eclipse
 - JavaServlet
 - Tomcat
-- Sqlite
-- Jdbc
-- Log4j
-- Jackson
-
